@@ -1,4 +1,4 @@
-# Sales-Dashboard
+cuti# Sales-Dashboard
 # 📊 Executive Retail Sales & Profit Performance Dashboard
 
 ## 📌 Project Overview
@@ -87,23 +87,23 @@ Summarizes the overall findings and provides business recommendations for improv
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_dashboard.png)
+![Executive Overview](executive_retail_sales.png)
 
 ### Product Performance
 
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](product_performance_analysis.png)
 
 ### Discount Analysis
 
-![Discount Analysis](screenshots/discount_analysis.png)
+![Discount Analysis](discount_analysis.png)
 
 ### Regional Analysis
 
-![Regional Analysis](screenshots/regional_analysis.png)
+![Regional Analysis](regional_erformance_analysis.png)
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](summary_and_recommendations.png)
 
 ---
 
