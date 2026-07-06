@@ -91,7 +91,7 @@ Summarizes the overall findings and provides business recommendations for improv
 
 ### Product Performance
 
-![Product Performance](product_performance_analysis.png)
+![Product Performance](product_performance.png)
 
 ### Discount Analysis
 
@@ -99,7 +99,7 @@ Summarizes the overall findings and provides business recommendations for improv
 
 ### Regional Analysis
 
-![Regional Analysis](regional_erformance_analysis.png)
+![Regional Analysis](regional_performance_analysis.png)
 
 ### Executive Summary
 
