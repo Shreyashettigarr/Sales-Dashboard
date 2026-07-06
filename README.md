@@ -87,23 +87,23 @@ Summarizes the overall findings and provides business recommendations for improv
 
 ### Executive Overview
 
-![Executive Overview](executive_retail_sales.png)
+![Executive Overview](image/executive_retail_sales.png)
 
 ### Product Performance
 
-![Product Performance](product_performance.png)
+![Product Performance](image/product_performance.png)
 
 ### Discount Analysis
 
-![Discount Analysis](discount_analysis.png)
+![Discount Analysis](image/discount_analysis.png)
 
 ### Regional Analysis
 
-![Regional Analysis](regional_performance_analysis.png)
+![Regional Analysis](image/regional_performance_analysis.png)
 
 ### Executive Summary
 
-![Executive Summary](summary_and_recommendations.png)
+![Executive Summary](image/summary_and_recommendations.png)
 
 ---
 
