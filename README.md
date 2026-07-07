@@ -112,15 +112,15 @@ Summarizes the overall findings and provides business recommendations for improv
 ```
 📁 Executive-Retail-Sales-Profit-Dashboard
 │
-├── Executive_Retail_Sales_Profit_Dashboard.pbix
-├── Retail_Dataset.xlsx
+├── sales dashboard.pbix
+├── Copy of Superstore Dataset.xlsx
 ├── README.md
-└── screenshots
-    ├── executive_dashboard.png
+└── image
+    ├── executive_retail_sales.png
     ├── product_performance.png
     ├── discount_analysis.png
-    ├── regional_analysis.png
-    └── executive_summary.png
+    ├── regional_performance_analysis.png
+    └── summary_and_recommendations.png
 ```
 
 ---
@@ -132,7 +132,7 @@ This project was created to strengthen my Power BI and business analytics skills
 ---
 
 
-##Author
+## Author
 
 **Created by Shreya Shettigar**
 
