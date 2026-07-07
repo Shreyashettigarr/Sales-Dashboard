@@ -1,4 +1,4 @@
-cuti# Sales-Dashboard
+# Sales-Dashboard
 # 📊 Executive Retail Sales & Profit Performance Dashboard
 
 ## 📌 Project Overview
