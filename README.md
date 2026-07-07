@@ -131,4 +131,10 @@ This project was created to strengthen my Power BI and business analytics skills
 
 ---
 
+
+##Author
+
 **Created by Shreya Shettigar**
+
+Email : shettigarrs.shreya@gmail.com
+LinkedIN : www.linkedin.com/in/shreya-shettigar-5b16a6378
